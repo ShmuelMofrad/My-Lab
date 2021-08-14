@@ -11,3 +11,4 @@ My Lab is just my code labor and list of my projects.
 - [Web-Lab](https://github.com/ShmuelMofrad/Web-Lab)
 - [angular-stackblitz-start](https://github.com/ShmuelMofrad/angular-stackblitz-start)
 - [my-first-angular-project](https://github.com/ShmuelMofrad/my-first-angular-project)
+- [TypeScript-SNAPSHOT](https://github.com/ShmuelMofrad/TypeScript-SNAPSHOT)
