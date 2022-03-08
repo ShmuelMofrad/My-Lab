@@ -15,15 +15,15 @@ one place for everything to learn code.
 
 ## Board:
 
-- [small kanban/scrum board](https://github.com/users/ShmuelMofrad/projects/1)
+- [(My-Lab-Board)](https://github.com/users/ShmuelMofrad/projects/1): small kanban/scrum board.
 
 ## Projects:
 
-- [Java-Lab](https://github.com/ShmuelMofrad/Java-Lab)
-- [Web-Lab](https://github.com/ShmuelMofrad/Web-Lab)
-- [angular-stackblitz-start](https://github.com/ShmuelMofrad/angular-stackblitz-start)
-- [my-first-angular-project](https://github.com/ShmuelMofrad/my-first-angular-project)
-- [TypeScript-SNAPSHOT](https://github.com/ShmuelMofrad/TypeScript-SNAPSHOT)
+- [Java-Lab or Italian breakfast](https://github.com/ShmuelMofrad/Java-Lab): Java-Lab also called **Italian breakfast**. main learning package about java development, with a step-by-step guidance and java code examples.
+- [~~Web-Lab~~](https://github.com/ShmuelMofrad/Web-Lab)
+- [~~angular-stackblitz-start~~](https://github.com/ShmuelMofrad/angular-stackblitz-start)
+- [~~my-first-angular-project~~](https://github.com/ShmuelMofrad/my-first-angular-project)
+- [~~TypeScript-SNAPSHOT~~](https://github.com/ShmuelMofrad/TypeScript-SNAPSHOT)
 
 &nbsp;
 &nbsp;
