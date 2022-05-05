@@ -20,6 +20,7 @@ one place for everything to learn code.
 ## Projects:
 
 - [Java-Lab or Italian breakfast](https://github.com/ShmuelMofrad/Java-Lab): Java-Lab also called **Italian breakfast**. main learning package about java development, with a step-by-step guidance and java code examples.
+- [Web-Lab or tomato soup](https://github.com/ShmuelMofrad/tomato-soup): **tomato soup** is a learning package for beginners about Web development.  
 - [~~Web-Lab~~](https://github.com/ShmuelMofrad/Web-Lab)
 - [~~angular-stackblitz-start~~](https://github.com/ShmuelMofrad/angular-stackblitz-start)
 - [~~my-first-angular-project~~](https://github.com/ShmuelMofrad/my-first-angular-project)
